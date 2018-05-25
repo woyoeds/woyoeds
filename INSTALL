@@ -1,0 +1,9 @@
+Building EDS
+
+See doc/readme-qt.rst for instructions on building EDS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EDS.
+
+See doc/build-*.txt for instructions on building EDSd,
+the intended-for-services, no-graphical-interface, reference
+implementation of EDS.
